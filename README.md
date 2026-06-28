@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 # 💫 About Me:
 🌱 Currently learning advanced React, Node.js, Express.js, MongoDB, JavaScript, and backend development.<br>💡 Interested in Full Stack Web Development, AI-powered applications, and modern web technologies.<br>🔭 Building real-world MERN stack projects to strengthen my development skills.<br>📚 Preparing for Software Developer interviews by practicing JavaScript, React, and Data Structures & Algorithms.<br>🎯 Goal: Land a Software Developer/MERN Stack Developer role in 2026.
 
